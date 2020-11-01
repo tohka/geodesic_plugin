@@ -1,0 +1,13 @@
+[general]
+name=Geodesic Plugin
+email=tonaokiarita@gmail.com
+author=Naoki Arita
+qgisMinimumVersion=3.4
+description=Generates a geodesic.
+about=Generates a geodesic.
+version=0.1
+tracker=https://github.com/tohka/geodesic_plugin
+repository=https://github.com/tohka/geodesic_plugin
+experimental=True
+hasProcessingProvider=yes
+server=False
